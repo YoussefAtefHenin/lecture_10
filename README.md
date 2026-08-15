@@ -1,6 +1,9 @@
-<img width="1080" height="2400" alt="Screenshot_1786745692" src="https://github.com/user-attachments/assets/511bee7f-d807-4dd4-8157-37d2f6a72625" />
-<img width="1080" height="2400" alt="Screenshot_1786745687" src="https://github.com/user-attachments/assets/1b634853-fd14-4efe-8229-b78e12592ea0" />
-<img width="1080" height="2400" alt="Screenshot_1786745681" src="https://github.com/user-attachments/assets/ba1e76f1-1775-4a3d-b26b-0831ff435a40" />
-<img width="1080" height="2400" alt="Screenshot_1786745676" src="https://github.com/user-attachments/assets/420b2933-bad5-4869-bcc6-56a5bd1a175f" />
-<img width="1080" height="2400" alt="Screenshot_1786745671" src="https://github.com/user-attachments/assets/c0d87952-01ed-4fc4-94c8-5ef88bb7856e" />
+
 # lecture_10
+
+<img width="493" height="778" alt="Screenshot 2026-08-15 145458" src="https://github.com/user-attachments/assets/670a63a7-50f1-430f-bde0-59a03d4e5901" />
+<img width="479" height="748" alt="Screenshot 2026-08-15 145532" src="https://github.com/user-attachments/assets/f13c51f8-aee2-40fe-9450-a5918798742f" />
+<img width="467" height="768" alt="Screenshot 2026-08-15 145551" src="https://github.com/user-attachments/assets/fd8ff5e3-7dda-4989-ac6b-2d4dd39ff175" />
+<img width="494" height="767" alt="Screenshot 2026-08-15 145608" src="https://github.com/user-attachments/assets/ed73bbc0-ec99-4d24-8d84-8cb9cc581665" />
+<img width="452" height="752" alt="Screenshot 2026-08-15 145625" src="https://github.com/user-attachments/assets/09ea6337-5fdc-4ec0-8bae-e0580d2e9f8e" />
+
